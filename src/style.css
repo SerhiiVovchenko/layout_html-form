@@ -1,14 +1,14 @@
 /* styles go here */
 .inl {
   display: block;
-  margin: 10px;
+  margin-bottom: 10px;
 }
 
 .fielDset {
-  margin: 20px;
-  padding: 1px;
+  margin-bottom: 20px;
+  padding-bottom: 0;
 }
 
 .butSubmit {
-  margin: 10px;
+  margin-bottom: 10px;
 }
